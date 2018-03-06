@@ -1,0 +1,118 @@
+Script started on Mon 05 Dec 2016 02:19:52 PM EST
+fardad.soleimanloo@matrix:~/oop244/OOPDEV/FinalProject/OOP_MS5> runfp
+Wedding Planner Management Program
+1 - List goods
+2 - Add On Shelf Good
+3 - Add Custom-Made Good
+4 - Update Good quantity
+5 - Delete
+0 - Exit program
+> 1
+
+ Row | SKU | Good Name          | Cost  |Tax| QTY|Need| Delivery
+-----|-----|--------------------|-------|---|----|----|----------
+   1 | 123 |Centerpiece         | 136.22| t |   5|  20|
+   2 | 234 |DJ                  | 678.00| t |   0|   1|
+   3 | 345 |Four course dinner  |  96.05| t |   0| 160|
+   4 | 456 |Bridal Gown         |2260.00| t |   1|   1|2017/10/10
+   5 | 567 |Chair shashes       |  16.95| t |  25| 160|2017/10/12
+   6 | 678 |Bottled Water       |   0.55|   |  60| 200|
+-----+-----+--------------------+-------+---+----+----+----------
+Total cost of the Wedding: $3397.86
+
+Wedding Planner Management Program
+1 - List goods
+2 - Add On Shelf Good
+3 - Add Custom-Made Good
+4 - Update Good quantity
+5 - Delete
+0 - Exit program
+> 2
+
+Sku: 789
+Name: Fruit
+Price: 200
+Taxed: n
+Quantity On hand: 0
+Quantity Needed: 1
+
+Good added
+
+Wedding Planner Management Program
+1 - List goods
+2 - Add On Shelf Good
+3 - Add Custom-Made Good
+4 - Update Good quantity
+5 - Delete
+0 - Exit program
+> 3
+
+Sku: 890
+Name: Cake
+Price: 500
+Taxed: y
+Quantity On hand: 0
+Quantity Needed: 1
+delivery date (YYYY/MM/DD) : 2017/10/20
+
+Good added
+
+Wedding Planner Management Program
+1 - List goods
+2 - Add On Shelf Good
+3 - Add Custom-Made Good
+4 - Update Good quantity
+5 - Delete
+0 - Exit program
+> 4
+
+Please enter the SKU: 123
+
+Sku: 123
+Name: Centerpiece
+Price: 120.55
+Price after tax: 136.22
+Quantity On Hand: 5
+Quantity Needed: 20
+
+Please enter the number of purchased goods: 10
+
+Updated!
+
+Wedding Planner Management Program
+1 - List goods
+2 - Add On Shelf Good
+3 - Add Custom-Made Good
+4 - Update Good quantity
+5 - Delete
+0 - Exit program
+> 1
+
+ Row | SKU | Good Name          | Cost  |Tax| QTY|Need| Delivery
+-----|-----|--------------------|-------|---|----|----|----------
+   1 | 123 |Centerpiece         | 136.22| t |  15|  20|
+   2 | 234 |DJ                  | 678.00| t |   0|   1|
+   3 | 345 |Four course dinner  |  96.05| t |   0| 160|
+   4 | 456 |Bridal Gown         |2260.00| t |   1|   1|2017/10/10
+   5 | 567 |Chair shashes       |  16.95| t |  25| 160|2017/10/12
+   6 | 678 |Bottled Water       |   0.55|   |  60| 200|
+   7 | 789 |Fruit               | 200.00|   |   0|   1|
+   8 | 890 |Cake                | 565.00| t |   0|   1|2017/10/20
+-----+-----+--------------------+-------+---+----+----+----------
+Total cost of the Wedding: $4760.07
+
+Wedding Planner Management Program
+1 - List goods
+2 - Add On Shelf Good
+3 - Add Custom-Made Good
+4 - Update Good quantity
+5 - Delete
+0 - Exit program
+> 0
+
+Goodbye!!
+
+fardad.soleimanloo@matrix:~/oop244/OOPDEV/FinalProject/OOP_MS5> exit
+exit
+
+Script done on Mon 05 Dec 2016 02:26:15 PM EST
